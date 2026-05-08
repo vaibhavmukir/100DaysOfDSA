@@ -119,6 +119,7 @@ public class Day2 {
 
         System.out.println(max);
 
+        
     }
 } */
 
